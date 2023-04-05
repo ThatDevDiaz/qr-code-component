@@ -57,3 +57,10 @@ p {
   margin-top: 20px;
   margin: auto auto;
 }
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  max-width: 100px;
+}
